@@ -1,2 +1,2 @@
-# Degree-Projects
-Compilations of all of my Degree projects!
+# Projects
+Compilations of all of my projects!
