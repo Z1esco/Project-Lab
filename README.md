@@ -1,2 +1,2 @@
 # Projects
-Compilations of all of my projects!
+Compilations of all of my projects and labs !
